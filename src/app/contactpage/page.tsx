@@ -25,7 +25,7 @@ const Contact = () => {
     };
 
     return (
-        <main className='font-sans'>
+        <main>
             <section className='flex justify-between'>
                 <div className='mt-[50px] capitalize text-[64px] leading-none font-light ml-32'>
                     <h1 className='text-[#bdbdbd] w-[222px]'>

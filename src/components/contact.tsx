@@ -4,8 +4,8 @@ import Link from 'next/link'
 
 const Contact = () => {
     return (
-        <section className='w-[1100px] m-auto mt-[10%] font-sans'>
-            <h1 className='text-[64px] capitalize text-[#bdbdbd] font-sans font-light m-2'>contact us</h1>
+        <section className='w-[1100px] m-auto mt-[10%]'>
+            <h1 className='text-[64px] capitalize text-[#bdbdbd] font-light m-2'>contact us</h1>
             <div className='flex justify-between'>
                 <div>
                     <form action="post">

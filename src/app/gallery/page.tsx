@@ -4,7 +4,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const gallery = () => {
     return (
-        <main className='w-[1100px] m-auto font-sans'>
+        <main className='w-[1100px] m-auto '>
             <div className='mt-[50px] capitalize text-[64px] leading-none font-light'>
                 <h1 className='text-[#bdbdbd] '>
                     photo <br />
