@@ -19,7 +19,7 @@ const projects = () => {
                 <Image src='/images/img-20.png' alt='' width={500} height={500} className='w-[673.5px] h-[100%]'></Image>
                 <div className='w-[496.5px] pl-7'>
                     <h1 className='capitalize mt-7 text-[40px] font-light text-[#bdbdbd]'> sample project 1</h1>
-                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                     <button className="mt-14 w-[221.81px] bg-white h-[71px] text-black text-[12px] tracking-[3px] uppercase flex justify-center items-center">
                         <Link href='/sample-1'>view project <i className="bi bi-arrow-right"></i></Link>
                     </button>
@@ -32,7 +32,7 @@ const projects = () => {
                 <Image src='/images/img-21.png' alt='' width={500} height={500} className='w-[673.5px] h-[100%]'></Image>
                 <div className='w-[496.5px] pl-7'>
                     <h1 className='capitalize mt-7 text-[40px] font-light text-[#bdbdbd]'>sample project 2</h1>
-                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                     <button className="mt-14 w-[221.81px] bg-white h-[71px] text-black text-[12px] tracking-[3px] uppercase flex justify-center items-center">
                         <Link href=''>view project <i className="bi bi-arrow-right"></i></Link>
                     </button>
@@ -45,7 +45,7 @@ const projects = () => {
                 <Image src='/images/img-22.png' alt='' width={500} height={500} className='w-[673.5px] h-[100%]'></Image>
                 <div className='w-[496.5px] pl-7'>
                     <h1 className='capitalize mt-7 text-[40px] font-light text-[#bdbdbd]'>sample project 3</h1>
-                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p className='w-[400px]  mt-20 h-[120px] text-[16px]'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                     <button className="mt-14 w-[221.81px] bg-white h-[71px] text-black text-[12px] tracking-[3px] uppercase flex justify-center items-center">
                         <Link href=''>view project <i className="bi bi-arrow-right"></i></Link>
                     </button>

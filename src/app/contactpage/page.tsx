@@ -1,7 +1,6 @@
 'use client'
 import React, { useState } from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import ContactForm from '../../components/contact_form'; // Ensure this import path is correct
 import Verified from '../../components/verified'; // Import the Verified component
 import 'bootstrap-icons/font/bootstrap-icons.css';
